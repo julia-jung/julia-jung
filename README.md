@@ -3,7 +3,8 @@
 I'm a software engineer with experties in full-stack web development.
 <br />
 I like to make pixel-perfect interfaces with my great attention to details.
-Check out my work on my <a href="https://www.minji-jung.com">🔗 portfolio</a>
+<br />
+Check out my works on my <a href="https://www.minji-jung.com">🔗 Portfolio</a>!
 
 
 <br />
@@ -31,9 +32,5 @@ Check out my work on my <a href="https://www.minji-jung.com">🔗 portfolio</a>
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
-<br />
-<br />
-<br />
-<img src="images/bottom.svg" alt="bottom">
+<img src="bottom.svg" alt="bottom">
 
