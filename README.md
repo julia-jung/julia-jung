@@ -7,7 +7,7 @@ Hi, My name is Minji ![](https://user-images.githubusercontent.com/18350557/1763
 
 * 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [minji-jung.com](http://www.minji-jung.com)
-* 🧠  I'm currently learning React, Next.js and building a fun side project [My Pet Diary](https://github.com/julia-jung/pet-diary-app)
+* 🧠  I'm currently learning React, Next.js and building [things 👀](https://github.com/julia-jung/pet-diary-app) on my own  to get my hands dirty
 * 🤝  I'm open to collaborating on exciting projects together!
 * ✉️  You can contact me at [minji6654@gmail.com](mailto:minji6654@gmail.com)
 * ✈️  I love exploring the world! 🇰🇷🇺🇸🇬🇧🇦🇺🇷🇺🇯🇵🇨🇳🇹🇼🇵🇭🇮🇩🇻🇳🇸🇬🇫🇷🇮🇹🇭🇷🇹🇿🇿🇦🇳🇦🇧🇼🇿🇼 
